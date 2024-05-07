@@ -1,5 +1,3 @@
-<!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
@@ -32,10 +30,11 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">Languages and Tools</h2>
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,html,css,js,ts,mongodb,github&perline=8" alt="Languages and Tools" />
 </p>
+
 <br />
 
 
